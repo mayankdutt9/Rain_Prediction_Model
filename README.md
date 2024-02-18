@@ -18,4 +18,4 @@ Machine learning models: Three models were used namely, Logistic Regression, SVC
 Evaluation metrics:We used the metric - Accuracy Score, Jaccard Index, F1 Score and Log Loss.
 Model training and hyperparameter tuning: We trained the models using some parameters.
 
-Model performance: The best performing model in this case was Decision Tree Classifier which had an accuracy score of 0.82.
+Model performance: The best performing model in this case was Decision Tree Classifier which had an accuracy score of 0.84.
